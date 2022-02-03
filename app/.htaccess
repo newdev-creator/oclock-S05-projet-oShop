@@ -1,0 +1,4 @@
+# on interdit l'accès à toute l'arborescence
+# et à tout le monde
+# Apache répondra 403 (Forbidden) si on essaye
+Deny From All
